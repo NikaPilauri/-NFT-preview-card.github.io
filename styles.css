@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;600&display=swap');
+body {
+    background-color: #0d192c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    font-family: "Outfit";
+    
+  }
+  img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  .profile {
+    height: 33px;
+    width: 33px;
+  }
+  .clock {
+    width: 16px;
+    height: 16px;
+  }
+
+  .main-container {
+    width: 350px;
+    background-color: #15263f;
+    border-radius: 15px;
+    height: 596px;
+    padding: 24px;
+
+
+
+  }
+  h1 {
+    color: #8bacd9;
+    line-height: 26px;
+    font-weight: 300;
+    font-size: 18px;
+    height: 52px;
+    left: 6.86%;
+    right: 6.86%;
+  }
+  ETH {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color:#00FFF8;
+
+  }
+
+    days{
+      color: #8BACD9;
+        float: right;
+        padding-left: 9px;
+
+   }
+
+   .clock{
+
+    float: right;
+
+   }
+   
+
+  
+   Equilibrium{
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    width: 302px;
+    border-radius: 24px;
+  }
+
+  creationOf {
+    color: #8bacd9;
+    width: 81px;
+    height: 20px;
+  }
+
+  hr {
+    border: none;
+    background-color: #2e405a;
+    height: 1px;
+  }
+  creator{
+    border:none;
+    color:#FFFF;
+  }
+
+
+
+
+
